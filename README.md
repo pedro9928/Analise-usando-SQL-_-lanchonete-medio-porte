@@ -17,7 +17,7 @@ Todos os dados são fictícios.
 ## Como rodar
 
 1. Instale o MySQL Server e o Workbench.
-2. Execute `banco/01_lanchonete_vendas.sql` e `banco/02_lanchonete_operacao.sql`. Eles recriam os bancos do zero.
+2. Execute `bancos/01_lanchonete_vendas.sql` e `bancos/02_lanchonete_operacao.sql`. Eles recriam os bancos do zero.
 3. Abra os arquivos da pasta `Consultas/` e rode um por vez.
 
 ## Perguntas respondidas
